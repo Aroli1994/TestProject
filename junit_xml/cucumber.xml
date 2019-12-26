@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="2" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="86.998353">
+<testcase classname="Free CRM Login Feature" name="Free CRM Login Test Scenario" time="40.557019">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is already on login page.........................................passed
+When title of the login page................................................passed
+Then user enters "vineeey" and "Vinay@1994".................................undefined
+Then user clicks on login button............................................skipped
+Then user is on home page...................................................skipped
+Then close the browser......................................................skipped
+]]></failure>
+</testcase>
+<testcase classname="Free CRM Login Feature" name="Free CRM Login Test Scenario 2" time="46.441334">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is already on login page.........................................passed
+When title of the login page................................................passed
+Then user enters "tom" and "test542"........................................undefined
+Then user clicks on login button............................................skipped
+Then user is on home page...................................................skipped
+Then close the browser......................................................skipped
+]]></failure>
+</testcase>
+</testsuite>
